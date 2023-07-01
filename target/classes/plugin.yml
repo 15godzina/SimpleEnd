@@ -1,0 +1,4 @@
+name: bukkit-end-plugin
+main: pl.karol.end.EndPlugin
+version: 1.0
+author: karol.

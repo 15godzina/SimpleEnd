@@ -1,0 +1,5 @@
+pl\karol\end\EndPlugin.class
+pl\karol\end\configuration\ConfigurationFactory.class
+pl\karol\end\configuration\PluginConfiguration.class
+pl\karol\end\listener\WaterListener.class
+pl\karol\end\util\TextUtil.class
